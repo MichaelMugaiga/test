@@ -1,0 +1,10 @@
+body{
+  background-color: aquamarine;
+  background-image: url(/images/science.png);
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  color: white;
+}
+
